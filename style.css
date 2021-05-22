@@ -1,0 +1,22 @@
+table {
+    border: 3px solid black;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: center;
+}
+th {
+    background-color: coral;
+
+}
+th {
+    height: 3rem;
+}
+tr.one {
+    background-color:skyblue;
+}
+
+img{
+    width: 200px;
+}
